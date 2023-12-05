@@ -7,6 +7,5 @@ class MainContact {
   String chat;
   String date;
   String time;
-  MainContact(this.fullname, this.phoneNumber,this.chat,this.date,this.time);
+  MainContact(this.fullname, this.phoneNumber, this.chat, this.date, this.time);
 }
-

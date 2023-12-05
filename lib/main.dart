@@ -5,6 +5,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:platform_converter/Androidcontactapp.dart';
 import 'package:platform_converter/ContactList.dart';
 import 'package:platform_converter/Contactmodal.dart';
+import 'package:platform_converter/Splashscreen.dart';
 import 'package:platform_converter/ThemeModal.dart';
 import 'package:platform_converter/ValuesModal.dart';
 import 'package:provider/provider.dart';
@@ -59,7 +60,7 @@ class MyApp extends StatelessWidget {
         routes: {
           '/addContact': (context) => Contact(),
         },
-        home: Contact(),
+        home: SplashScreen(),
       );
     },);
   }
