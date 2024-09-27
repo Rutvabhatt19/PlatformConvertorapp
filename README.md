@@ -26,14 +26,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/91dbeb15-1861-4fbe-b0db-30b1d593b56b" alt="Add Contact" width="250"></td>
-    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/0ee8750b-ab8a-4c04-953a-46f5e0a3a137" alt="Update Contact" width="250"></td>
-    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/e4c1df15-a5a1-405f-89fe-b96fa813c174" alt="Delete Contact" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/91dbeb15-1861-4fbe-b0db-30b1d593b56b" alt="Settings" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/0ee8750b-ab8a-4c04-953a-46f5e0a3a137" alt="Add Contact" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/e4c1df15-a5a1-405f-89fe-b96fa813c174" alt="Chat Screen" width="250"></td>
   </tr>
   <tr>
+    <td align="center">Settings</td>
     <td align="center">Add Contact</td>
-    <td align="center">Update Contact</td>
-    <td align="center">Delete Contact</td>
+    <td align="center">Chat Screen</td>
   </tr>
 </table>
 
