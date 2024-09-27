@@ -1,19 +1,51 @@
-# platform_converter
+<h1>📱 Platform Converter App</h1>
 
-A new Flutter project.
+<p><strong>A Flutter application for managing contacts with theme customization and platform switching.</strong></p>
 
-## Getting Started
+<img class="badge" src="https://img.shields.io/badge/Flutter-v2.0%2B-blue?style=flat&logo=flutter" alt="Flutter">
+<img class="badge" src="https://img.shields.io/badge/License-MIT-green" alt="License">
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+<h2>🚀 Project Overview</h2>
+<p>The <strong>Platform Converter</strong> app allows users to add, update, and delete contacts using Shared Preferences. Users can also customize their app theme and switch platforms seamlessly.</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<hr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>✨ Features</h2>
+<ul>
+    <li>📇 <strong>Contact Management</strong>: Easily add, update, and delete contacts.</li>
+    <li>🎨 <strong>Theme Customization</strong>: Personalize your app's appearance.</li>
+    <li>🔄 <strong>Platform Switching</strong>: Smoothly switch between different platforms.</li>
+</ul>
+
+<hr>
+
+<h2>📱 Screenshots</h2>
+<p>Here’s a preview of the user interface:</p>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/91dbeb15-1861-4fbe-b0db-30b1d593b56b" alt="Add Contact" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/0ee8750b-ab8a-4c04-953a-46f5e0a3a137" alt="Update Contact" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/PlatformConvertorapp/assets/118719070/e4c1df15-a5a1-405f-89fe-b96fa813c174" alt="Delete Contact" width="250"></td>
+  </tr>
+  <tr>
+    <td align="center">Add Contact</td>
+    <td align="center">Update Contact</td>
+    <td align="center">Delete Contact</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🛠️ Technologies Used</h2>
+<ul>
+    <li><strong>Flutter</strong>: Cross-platform app development framework.</li>
+    <li><strong>Shared Preferences</strong>: For storing contact information locally.</li>
+</ul>
+
+<hr>
 
 
 
